@@ -1,11 +1,11 @@
 {
-    "name": "USAMA SARWAR",
-    "short_name": "USAMA",
+    "name": "AlphaRanker",
+    "short_name": "AlphaRanker",
     "start_url": ".",
-    "display": "fullscreen",
-    "background_color": "#000000",
-    "theme_color": "#000000",
-    "description": "USAMA SARWAR",
+    "display": "standalone",
+    "background_color": "#000",
+    "theme_color": "#000",
+    "description": "Rank yourself",
     "orientation": "portrait-primary",
     "prefer_related_applications": true,
     "icons": [
