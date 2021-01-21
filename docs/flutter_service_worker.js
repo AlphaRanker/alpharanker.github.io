@@ -3,11 +3,19 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "554a504b8f3feec0505170f30ccc64ce",
+  "assets/AssetManifest.json": "51c3a96e99ab829372e7d1d21820cc58",
 "assets/assets/alpharanker%2520black.png": "9b86307fa2353c1e78d74ece4ea5121c",
 "assets/assets/alpharanker%2520logo.ai": "9caa0fb927f564df6158cc30f13d6dac",
 "assets/assets/alpharanker%2520white.png": "aadb788c5a7467b1b39673bb7beff37e",
 "assets/assets/alpharanker.png": "da9906a4193efc82e82c8cc49f2e49e7",
+"assets/assets/facebook.png": "b1ed8cfeeda463a9c526a0d6123b7228",
+"assets/assets/github.png": "472739dfb5857b1f659f4c4c6b4568d0",
+"assets/assets/instagram.png": "1d9b5ce82332c2d098ae2b919d790b07",
+"assets/assets/likee.png": "1323da97d89a06e82864dc3076f75957",
+"assets/assets/linkedin.png": "1b18d461ce75c75fdb4d7b6ec08b3e65",
+"assets/assets/tiktok.png": "fad8233679eb82633a26003deeb2ea0b",
+"assets/assets/twitter.png": "fef946b8bba756359e2a1e87ccd915ea",
+"assets/assets/youtube.png": "a454204c6df926b8338b97c59dcfbdff",
 "assets/FontManifest.json": "5a32d4310a6f5d9a6b651e75ba0d7372",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
 "assets/NOTICES": "40fbf2d0dcbf112f662e951baf8368eb",
@@ -19,9 +27,9 @@ const RESOURCES = {
 "favicon.png": "f06beed693190c90edc6e49e08f3a904",
 "icons/Icon-192.png": "f06beed693190c90edc6e49e08f3a904",
 "icons/Icon-512.png": "da9906a4193efc82e82c8cc49f2e49e7",
-"index.html": "4bd82d38f832fc7d438b75b587529532",
-"/": "4bd82d38f832fc7d438b75b587529532",
-"main.dart.js": "1ea36bbb9dedac2b0f4b5eeddb2de49f",
+"index.html": "2ee124d44cd8300ee200ec6bf8f53e00",
+"/": "2ee124d44cd8300ee200ec6bf8f53e00",
+"main.dart.js": "7c9d1f431c1ecb283cbb637f0735da38",
 "manifest.json": "0d3d06127b1e969f473277e769f71cf8",
 "version.json": "7d8f2641c66a0719132d044a004757e9"
 };
