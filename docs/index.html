@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
   <head>
     <meta charset="UTF-8" />
     <meta content="IE=Edge" http-equiv="X-UA-Compatible" />
@@ -9,6 +9,7 @@
 
     <!-- Meta Details -->
     <title>AlphaRanker</title>
+    <link rel="canonical" href="https://www.alpharanker.com/" />
     <meta
       name="description"
       content="AlphaRanker is a free backlink generator that is the most popular ranker for boosting social media profiles and websites in Search Results. AlphaRanker automatically generates backlinks and submits your site for indexing in the most popular search engines i.e. Google, Bing, Yahoo and DuckDuckGo."
@@ -22,7 +23,10 @@
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary" />
-    <meta name="twitter:title" content="AlphaRanker" />
+    <meta
+      name="twitter:title"
+      content="AlphaRanker | Social Media Profile Booster"
+    />
     <meta
       name="twitter:description"
       content="AlphaRanker is a free backlink generator that is the most popular ranker for boosting social media profiles and websites in Search Results. AlphaRanker automatically generates backlinks and submits your site for indexing in the most popular search engines i.e. Google, Bing, Yahoo and DuckDuckGo."
@@ -31,8 +35,12 @@
     <meta property="twitter:url" content="https://AlphaRanker.com/" />
 
     <!-- Facebook Meta Tags -->
+    <meta property="og:locale" content="en_US" />
     <meta property="og:site_name" content="AlphaRanker" />
-    <meta property="og:title" content="AlphaRanker" />
+    <meta
+      property="og:title"
+      content="AlphaRanker | Social Media Profile Booster"
+    />
     <meta property="og:url" content="https://AlphaRanker.com/" />
     <meta property="og:type" content="website" />
     <meta
@@ -40,10 +48,20 @@
       content="AlphaRanker is a free backlink generator that is the most popular ranker for boosting social media profiles and websites in Search Results. AlphaRanker automatically generates backlinks and submits your site for indexing in the most popular search engines i.e. Google, Bing, Yahoo and DuckDuckGo."
     />
     <meta property="og:image" content="https://i.imgur.com/3uZhEJL.jpg" />
+    <meta property="og:image:alt" content="AlphaRanker" />
+    <meta property="ia:markup_url" content="https://AlphaRanker.com/" />
+    <meta
+      property="ia:markup_url_dev"
+      content="https://usamasarwar.github.io/"
+    />
+    <meta property="ia:rules_url" content="https://AlphaRanker.com/privacy/" />
 
     <!-- Item Meta Tags -->
     <meta itemprop="name" content="AlphaRanker" />
-    <meta itemprop="description" content="AlphaRanker is a free backlink generator that is the most popular ranker for boosting social media profiles and websites in Search Results. AlphaRanker automatically generates backlinks and submits your site for indexing in the most popular search engines i.e. Google, Bing, Yahoo and DuckDuckGo." />
+    <meta
+      itemprop="description"
+      content="AlphaRanker is a free backlink generator that is the most popular ranker for boosting social media profiles and websites in Search Results. AlphaRanker automatically generates backlinks and submits your site for indexing in the most popular search engines i.e. Google, Bing, Yahoo and DuckDuckGo."
+    />
     <meta itemprop="image" content="https://i.imgur.com/AbLW5NT.png" />
 
     <!-- iOS meta tags & icons -->
@@ -70,6 +88,11 @@
     <link rel="manifest" href="manifest.json" />
   </head>
   <body>
+    <script src="https://www.gstatic.com/firebasejs/7.20.0/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/7.20.0/firebase-firestore.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/7.20.0/firebase-analytics.js"></script>
+    <script src="script.js"></script>
+
     <script>
       if ("serviceWorker" in navigator) {
         window.addEventListener("flutter-first-frame", function () {
