@@ -34169,7 +34169,7 @@ r=X.Hg(C.k,C.E,C.k,C.aN,C.k)
 q=this.ZU(b)
 p=T.bR(new X.kA(new Y.Vk(),n),60,60)
 o=T.bR(n,30,n)
-return S.ahp(n,!1,!1,C.k,r,!1,!1,M.po(q,n,T.fL(H.d([p,o,new T.cz(new V.aB(200,0,200,0),new V.Hy(n),n),T.bR(n,80,n),L.aD("Rank Social Profiles",n,n,n,B.aI(n,n,n),n),new Y.GL(n)],t.Y),C.bc,C.is,C.aH),!1),n,n,n,n,n,n,n,s,n,n,n,n,C.t2,n,!1,!1,C.nm,n,C.pz,"AlphaRanker")},
+return S.ahp(n,!1,!1,C.k,r,!1,!1,M.po(q,n,T.fL(H.d([p,o,new T.cz(new V.aB(10,0,10,0),new V.Hy(n),n),T.bR(n,80,n),L.aD("Rank Social Profiles",n,n,n,B.aI(n,n,n),n),new Y.GL(n)],t.Y),C.bc,C.is,C.aH),!1),n,n,n,n,n,n,n,s,n,n,n,n,C.t2,n,!1,!1,C.nm,n,C.pz,"AlphaRanker")},
 ZU:function(a){var s=null,r=U.ah8("assets/alpharanker.png",s,s,s),q=L.aD("alpharanker",s,s,s,B.aI(C.h,s,C.bX),s)
 return E.rr(H.d([O.avU(),B.ee(s,L.bD(C.yJ,s,s),new Y.Vj(),s,"More")],t.Y),C.k,0,new T.cz(C.yb,r,s),s,q)}}
 Y.Vk.prototype={
