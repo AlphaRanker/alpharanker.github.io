@@ -25,16 +25,17 @@ const RESOURCES = {
 "favicon.png": "9cf8b8b8dfa8e35c43ff9cde7f838c36",
 "icons/Icon-192.png": "9cf8b8b8dfa8e35c43ff9cde7f838c36",
 "icons/Icon-512.png": "04033cc7fe11bb4699744edd30603df8",
-"index.html": "6dfc17eef04aa7e161a3d2f31f6abd19",
+"index.html": "a92ad4217d657d6256290170770b0221",
 "/": "bfbf86986ed2bfa245a5807e6a94552c",
-"main.dart.js": "414fcd2e32310c87e94754e99fc27e5a",
-"manifest.json": "dc2a60a4d6c24a1bd2eaf3d5fe6e25d8",
+"main.dart.js": "4cc9a9794ebe7093378fd0ecbb2c110f",
+"manifest.json": "9e00bede66d6703ae49243df71c09868",
 "privacy/index.html": "bfbf86986ed2bfa245a5807e6a94552c",
 "robots.txt": "5fd79f96e89481c204fce70d38e8e5e1",
 "script.js": "36ca37d7e47e12dc37e4f63bd6a4711d",
 "service-worker.js": "f733d78ed0caa99fa9cb0f7499d27904",
 "sitemap/sitemap.xml": "c1ef47e037203740af13ae543c8d9e4a",
-"version.json": "ac31f18f4056bdbce4171ad8aae2b758"
+"style.css": "c3cbad18da7cf4dbff05e7a0a60814a0",
+"version.json": "824302a75674a7f65765bbf1ade7da0e"
 };
 
 // The application shell files that are downloaded before a service worker can
